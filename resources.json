@@ -1,0 +1,472 @@
+{
+  "_note": "hours = rough time to reach job-ready basics. Edit freely. 'start' is shown after 'Start with:'; 'note' is shown as-is. 'links' = [label, url] pairs shown in the Learning Links window. If a link breaks, just edit it here.",
+  "skills": {
+    "Python": {
+      "hours": 40,
+      "start": "Kaggle Learn 'Python' course, then build one small script or project",
+      "links": [
+        [
+          "Kaggle Learn: Python",
+          "https://www.kaggle.com/learn/python"
+        ]
+      ]
+    },
+    "SQL": {
+      "hours": 25,
+      "start": "Kaggle Learn 'Intro to SQL', then practice joins and aggregations on a sample database",
+      "links": [
+        [
+          "Kaggle Learn: Intro to SQL",
+          "https://www.kaggle.com/learn/intro-to-sql"
+        ]
+      ]
+    },
+    "MySQL": {
+      "hours": 15,
+      "start": "the official MySQL tutorial, practicing on a sample database",
+      "links": [
+        [
+          "MySQL tutorial",
+          "https://dev.mysql.com/doc/refman/8.0/en/tutorial.html"
+        ]
+      ]
+    },
+    "PostgreSQL": {
+      "hours": 15,
+      "start": "the official PostgreSQL tutorial, practicing on a sample database",
+      "links": [
+        [
+          "PostgreSQL tutorial",
+          "https://www.postgresql.org/docs/current/tutorial.html"
+        ]
+      ]
+    },
+    "Excel": {
+      "hours": 20,
+      "start": "Microsoft's Excel training: formulas, PivotTables, lookups and charts"
+    },
+    "Power BI": {
+      "hours": 20,
+      "start": "Microsoft Learn 'Get started with Power BI', then build one dashboard from a public dataset",
+      "links": [
+        [
+          "Microsoft Learn: Power BI docs",
+          "https://learn.microsoft.com/en-us/power-bi/"
+        ]
+      ]
+    },
+    "Tableau": {
+      "hours": 20,
+      "start": "Tableau's free training videos, then publish a dashboard on Tableau Public"
+    },
+    "Pandas": {
+      "hours": 15,
+      "start": "Kaggle Learn 'Pandas' course, then clean a real CSV file",
+      "links": [
+        [
+          "Kaggle Learn: Pandas",
+          "https://www.kaggle.com/learn/pandas"
+        ]
+      ]
+    },
+    "NumPy": {
+      "hours": 8,
+      "start": "the NumPy 'absolute beginners' guide",
+      "links": [
+        [
+          "NumPy: absolute beginners guide",
+          "https://numpy.org/doc/stable/user/absolute_beginners.html"
+        ]
+      ]
+    },
+    "Statistics": {
+      "hours": 40,
+      "start": "Khan Academy Statistics and Probability, plus StatQuest videos on YouTube",
+      "links": [
+        [
+          "Khan Academy: Statistics and Probability",
+          "https://www.khanacademy.org/math/statistics-probability"
+        ]
+      ]
+    },
+    "Data Visualization": {
+      "hours": 15,
+      "start": "Kaggle Learn 'Data Visualization', then recreate charts from a dataset you like",
+      "links": [
+        [
+          "Kaggle Learn: Data Visualization",
+          "https://www.kaggle.com/learn/data-visualization"
+        ]
+      ]
+    },
+    "Data Analysis": {
+      "hours": 30,
+      "start": "one end-to-end project on a Kaggle dataset: clean, explore, chart, write up findings"
+    },
+    "Data Cleaning": {
+      "hours": 10,
+      "start": "Kaggle Learn 'Data Cleaning' course",
+      "links": [
+        [
+          "Kaggle Learn: Data Cleaning",
+          "https://www.kaggle.com/learn/data-cleaning"
+        ]
+      ]
+    },
+    "ETL": {
+      "hours": 15,
+      "start": "a small pipeline: extract a CSV or API, clean it in Python, load it into SQL"
+    },
+    "Machine Learning": {
+      "hours": 60,
+      "start": "Kaggle Learn 'Intro to Machine Learning', then Andrew Ng's Machine Learning course",
+      "links": [
+        [
+          "Kaggle Learn: Intro to Machine Learning",
+          "https://www.kaggle.com/learn/intro-to-machine-learning"
+        ]
+      ]
+    },
+    "Deep Learning": {
+      "hours": 60,
+      "start": "Kaggle Learn 'Intro to Deep Learning', then a short Keras or PyTorch project",
+      "links": [
+        [
+          "Kaggle Learn: Intro to Deep Learning",
+          "https://www.kaggle.com/learn/intro-to-deep-learning"
+        ]
+      ]
+    },
+    "TensorFlow": {
+      "hours": 30,
+      "start": "the official TensorFlow beginner tutorials",
+      "links": [
+        [
+          "TensorFlow tutorials",
+          "https://www.tensorflow.org/tutorials"
+        ]
+      ]
+    },
+    "PyTorch": {
+      "hours": 30,
+      "start": "the official PyTorch 'Learn the Basics' tutorial",
+      "links": [
+        [
+          "PyTorch: Learn the Basics",
+          "https://pytorch.org/tutorials/beginner/basics/intro.html"
+        ]
+      ]
+    },
+    "Scikit-learn": {
+      "hours": 15,
+      "start": "the scikit-learn user guide, training a model on a Kaggle dataset",
+      "links": [
+        [
+          "scikit-learn user guide",
+          "https://scikit-learn.org/stable/user_guide.html"
+        ]
+      ]
+    },
+    "NLP": {
+      "hours": 30,
+      "start": "the free Hugging Face NLP course",
+      "links": [
+        [
+          "Hugging Face NLP course",
+          "https://huggingface.co/learn/nlp-course"
+        ]
+      ]
+    },
+    "Generative AI": {
+      "hours": 20,
+      "start": "build a small app that calls an LLM API and write up what you learned"
+    },
+    "Matplotlib": {
+      "hours": 6,
+      "start": "the official Matplotlib quick-start guide"
+    },
+    "Seaborn": {
+      "hours": 5,
+      "start": "the official Seaborn tutorial",
+      "links": [
+        [
+          "Seaborn tutorial",
+          "https://seaborn.pydata.org/tutorial.html"
+        ]
+      ]
+    },
+    "Git": {
+      "hours": 6,
+      "start": "the free Pro Git book (first chapters), practicing on a personal repository",
+      "links": [
+        [
+          "Pro Git book (free)",
+          "https://git-scm.com/book"
+        ]
+      ]
+    },
+    "GitHub": {
+      "hours": 4,
+      "start": "GitHub Docs 'Hello World' guide, then publish one of your projects"
+    },
+    "Docker": {
+      "hours": 10,
+      "start": "Docker's official 'Get started' guide",
+      "links": [
+        [
+          "Docker: Get started",
+          "https://docs.docker.com/get-started/"
+        ]
+      ]
+    },
+    "Kubernetes": {
+      "hours": 25,
+      "start": "the official 'Learn Kubernetes Basics' tutorial",
+      "links": [
+        [
+          "Kubernetes: Basics tutorial",
+          "https://kubernetes.io/docs/tutorials/kubernetes-basics/"
+        ]
+      ]
+    },
+    "AWS": {
+      "hours": 30,
+      "start": "AWS Cloud Practitioner Essentials (free on AWS Skill Builder)",
+      "links": [
+        [
+          "AWS Skill Builder",
+          "https://skillbuilder.aws/"
+        ]
+      ]
+    },
+    "Azure": {
+      "hours": 30,
+      "start": "the Microsoft Learn 'Azure Fundamentals' path",
+      "links": [
+        [
+          "Microsoft Learn: Azure training",
+          "https://learn.microsoft.com/en-us/training/azure/"
+        ]
+      ]
+    },
+    "Google Cloud": {
+      "hours": 30,
+      "start": "Google Cloud Skills Boost introductory labs"
+    },
+    "Linux": {
+      "hours": 15,
+      "start": "Linux Journey (free), plus daily practice in a terminal",
+      "links": [
+        [
+          "Linux Journey",
+          "https://linuxjourney.com/"
+        ]
+      ]
+    },
+    "Spark": {
+      "hours": 25,
+      "start": "the Apache Spark quick start, using PySpark",
+      "links": [
+        [
+          "Spark quick start",
+          "https://spark.apache.org/docs/latest/quick-start.html"
+        ]
+      ]
+    },
+    "Airflow": {
+      "hours": 12,
+      "start": "the official Apache Airflow tutorial",
+      "links": [
+        [
+          "Airflow tutorial",
+          "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html"
+        ]
+      ]
+    },
+    "HTML": {
+      "hours": 12,
+      "start": "freeCodeCamp's Responsive Web Design course or MDN's HTML guide",
+      "links": [
+        [
+          "MDN: Learn web development",
+          "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+        ],
+        [
+          "freeCodeCamp",
+          "https://www.freecodecamp.org/learn"
+        ]
+      ]
+    },
+    "CSS": {
+      "hours": 15,
+      "start": "MDN's CSS first steps, then rebuild a simple page layout",
+      "links": [
+        [
+          "MDN: Learn web development",
+          "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+        ],
+        [
+          "freeCodeCamp",
+          "https://www.freecodecamp.org/learn"
+        ]
+      ]
+    },
+    "JavaScript": {
+      "hours": 40,
+      "start": "freeCodeCamp's JavaScript course or javascript.info",
+      "links": [
+        [
+          "javascript.info",
+          "https://javascript.info/"
+        ],
+        [
+          "freeCodeCamp",
+          "https://www.freecodecamp.org/learn"
+        ]
+      ]
+    },
+    "TypeScript": {
+      "hours": 15,
+      "start": "the official TypeScript Handbook",
+      "links": [
+        [
+          "TypeScript Handbook",
+          "https://www.typescriptlang.org/docs/handbook/intro.html"
+        ]
+      ]
+    },
+    "React": {
+      "hours": 30,
+      "start": "the official 'Learn React' docs, then build a small app",
+      "links": [
+        [
+          "React: Learn",
+          "https://react.dev/learn"
+        ]
+      ]
+    },
+    "Django": {
+      "hours": 25,
+      "start": "the official Django tutorial",
+      "links": [
+        [
+          "Django tutorial",
+          "https://docs.djangoproject.com/en/stable/intro/tutorial01/"
+        ]
+      ]
+    },
+    "Flask": {
+      "hours": 12,
+      "start": "the official Flask tutorial",
+      "links": [
+        [
+          "Flask tutorial",
+          "https://flask.palletsprojects.com/en/stable/tutorial/"
+        ]
+      ]
+    },
+    "FastAPI": {
+      "hours": 10,
+      "start": "the official FastAPI tutorial",
+      "links": [
+        [
+          "FastAPI tutorial",
+          "https://fastapi.tiangolo.com/tutorial/"
+        ]
+      ]
+    },
+    "REST API": {
+      "hours": 10,
+      "start": "build a small API with Flask or FastAPI and test it with Postman"
+    },
+    "MongoDB": {
+      "hours": 12,
+      "start": "MongoDB University's free introductory courses",
+      "links": [
+        [
+          "MongoDB University",
+          "https://learn.mongodb.com/"
+        ]
+      ]
+    },
+    "Java": {
+      "hours": 50,
+      "start": "the University of Helsinki's free MOOC.fi Java Programming course",
+      "links": [
+        [
+          "MOOC.fi Java Programming",
+          "https://java-programming.mooc.fi/"
+        ]
+      ]
+    },
+    "C++": {
+      "hours": 50,
+      "start": "learncpp.com (free), plus small practice programs",
+      "links": [
+        [
+          "learncpp.com",
+          "https://www.learncpp.com/"
+        ]
+      ]
+    },
+    "VBA": {
+      "hours": 15,
+      "start": "an Excel VBA tutorial, automating one repetitive task of your own"
+    },
+    "DAX": {
+      "hours": 15,
+      "start": "Microsoft Learn's DAX and Power BI modeling modules"
+    },
+    "Power Query": {
+      "hours": 10,
+      "start": "Microsoft Learn's Power Query modules"
+    },
+    "Agile": {
+      "hours": 5,
+      "start": "the Scrum Guide (free and short)",
+      "links": [
+        [
+          "The Scrum Guide",
+          "https://scrumguides.org/"
+        ]
+      ]
+    },
+    "Jira": {
+      "hours": 3,
+      "start": "Atlassian's free Jira guides"
+    }
+  },
+  "categories": {
+    "Programming Languages": {
+      "hours": 40,
+      "start": "an official tutorial or beginner course, then one small project"
+    },
+    "Databases": {
+      "hours": 15,
+      "start": "the official tutorial plus a practice database"
+    },
+    "Data Analysis & BI": {
+      "hours": 20,
+      "start": "a free course on the tool, then one portfolio project on a public dataset"
+    },
+    "Machine Learning & AI": {
+      "hours": 30,
+      "start": "Kaggle Learn micro-courses, then one small project"
+    },
+    "Web Development": {
+      "hours": 20,
+      "start": "the official docs tutorial, then a small project"
+    },
+    "Cloud & DevOps": {
+      "hours": 20,
+      "start": "the vendor's free fundamentals course or official tutorial"
+    },
+    "Tools & Business": {
+      "hours": 5,
+      "start": "the vendor's free tutorials"
+    },
+    "Soft Skills": {
+      "note": "No course needed: show it with a concrete example in your resume (what you did and the result)."
+    }
+  }
+}

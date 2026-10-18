@@ -1,0 +1,233 @@
+{
+  "_case_sensitive": [
+    "Excel",
+    "Swift",
+    "Spark",
+    "Rust",
+    "Dart"
+  ],
+  "Programming Languages": {
+    "Python": [],
+    "Java": [],
+    "JavaScript": [
+      "JS"
+    ],
+    "TypeScript": [],
+    "C++": [],
+    "C#": [],
+    "PHP": [],
+    "Ruby": [],
+    "Swift": [],
+    "Kotlin": [],
+    "Scala": [],
+    "MATLAB": [],
+    "Rust": [],
+    "Perl": [],
+    "Dart": [],
+    "Golang": [
+      "Go language"
+    ],
+    "R Programming": [
+      "R language"
+    ],
+    "SAS": [],
+    "Bash": [
+      "Shell Scripting"
+    ]
+  },
+  "Databases": {
+    "SQL": [],
+    "MySQL": [],
+    "PostgreSQL": [
+      "Postgres"
+    ],
+    "SQL Server": [
+      "MSSQL",
+      "Microsoft SQL Server"
+    ],
+    "Oracle": [],
+    "MongoDB": [],
+    "SQLite": [],
+    "Redis": [],
+    "Cassandra": [],
+    "NoSQL": [],
+    "Snowflake": [],
+    "BigQuery": [],
+    "Elasticsearch": [],
+    "DynamoDB": []
+  },
+  "Data Analysis & BI": {
+    "Excel": [
+      "MS Excel",
+      "Microsoft Excel"
+    ],
+    "Power BI": [
+      "PowerBI"
+    ],
+    "Tableau": [],
+    "Pandas": [],
+    "NumPy": [],
+    "Statistics": [
+      "Statistical Analysis"
+    ],
+    "Data Visualization": [
+      "Data Visualisation"
+    ],
+    "Data Analysis": [
+      "Data Analytics"
+    ],
+    "Data Cleaning": [
+      "Data Wrangling",
+      "Data Cleansing"
+    ],
+    "Data Modeling": [
+      "Data Modelling"
+    ],
+    "ETL": [],
+    "Looker": [],
+    "Google Analytics": [],
+    "Matplotlib": [],
+    "Seaborn": [],
+    "Plotly": [],
+    "Hypothesis Testing": [],
+    "A/B Testing": [],
+    "Power Query": [],
+    "DAX": [],
+    "Google Sheets": []
+  },
+  "Machine Learning & AI": {
+    "Machine Learning": [
+      "ML"
+    ],
+    "Deep Learning": [],
+    "TensorFlow": [],
+    "PyTorch": [],
+    "Scikit-learn": [
+      "sklearn",
+      "scikit learn"
+    ],
+    "Keras": [],
+    "NLP": [
+      "Natural Language Processing"
+    ],
+    "Computer Vision": [],
+    "Artificial Intelligence": [
+      "AI"
+    ],
+    "Generative AI": [
+      "GenAI",
+      "LLM",
+      "LLMs",
+      "Large Language Models"
+    ],
+    "OpenCV": [],
+    "XGBoost": [],
+    "Hugging Face": [
+      "HuggingFace"
+    ],
+    "LangChain": [],
+    "Feature Engineering": [],
+    "Neural Networks": [],
+    "Reinforcement Learning": [],
+    "Time Series": []
+  },
+  "Web Development": {
+    "HTML": [],
+    "CSS": [],
+    "React": [
+      "React.js",
+      "ReactJS"
+    ],
+    "Angular": [],
+    "Vue.js": [
+      "Vue"
+    ],
+    "Node.js": [
+      "NodeJS"
+    ],
+    "Django": [],
+    "Flask": [],
+    "FastAPI": [],
+    "Spring Boot": [],
+    "REST API": [
+      "REST APIs",
+      "RESTful"
+    ],
+    "GraphQL": [],
+    "Bootstrap": [],
+    "Tailwind CSS": [
+      "Tailwind"
+    ],
+    "jQuery": [],
+    "Express.js": [],
+    ".NET": [
+      "dotnet",
+      "ASP.NET"
+    ]
+  },
+  "Cloud & DevOps": {
+    "AWS": [
+      "Amazon Web Services"
+    ],
+    "Azure": [
+      "Microsoft Azure"
+    ],
+    "Google Cloud": [
+      "GCP"
+    ],
+    "Docker": [],
+    "Kubernetes": [
+      "K8s"
+    ],
+    "Git": [],
+    "GitHub": [],
+    "GitLab": [],
+    "Jenkins": [],
+    "CI/CD": [],
+    "Terraform": [],
+    "Linux": [],
+    "Ansible": [],
+    "Airflow": [
+      "Apache Airflow"
+    ],
+    "Spark": [
+      "Apache Spark",
+      "PySpark"
+    ],
+    "Hadoop": [],
+    "Kafka": [
+      "Apache Kafka"
+    ],
+    "Databricks": []
+  },
+  "Tools & Business": {
+    "Jira": [],
+    "Figma": [],
+    "Postman": [],
+    "Salesforce": [],
+    "SAP": [],
+    "VBA": [],
+    "Microsoft Office": [
+      "MS Office"
+    ]
+  },
+  "Soft Skills": {
+    "Communication": [],
+    "Teamwork": [
+      "Team Player",
+      "Collaboration"
+    ],
+    "Leadership": [],
+    "Problem Solving": [
+      "Problem-Solving"
+    ],
+    "Critical Thinking": [],
+    "Time Management": [],
+    "Project Management": [],
+    "Agile": [
+      "Scrum"
+    ],
+    "Presentation Skills": [],
+    "Stakeholder Management": []
+  }
+}

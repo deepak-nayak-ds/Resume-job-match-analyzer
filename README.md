@@ -6,6 +6,11 @@ Built with Python, tkinter and scikit-learn.
 
 ![Main window](docs/main_window.png)
 
+## Download
+
+Windows users can download the ready-to-run program from the
+[latest release](https://github.com/deepak-nayak-ds/Resume-job-match-analyzer/releases/latest).
+
 ## What it does
 
 - **Reads your files:** PDF, Word (.docx) and text resumes and job descriptions, or paste text directly. Scanned PDFs work too if OCR is installed.

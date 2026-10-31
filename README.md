@@ -6,6 +6,10 @@ Built with Python, tkinter and scikit-learn.
 
 ![Main window](docs/main_window.png)
 
+## Try it online
+
+[Open the web version](https://resume-job-analyzer.streamlit.app/)
+
 ## Download
 
 Windows users can download the ready-to-run program from the

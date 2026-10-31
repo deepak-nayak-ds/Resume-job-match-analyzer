@@ -63,10 +63,21 @@ A scanned PDF is a picture of a page, so it needs OCR. Install the Python packag
 
 If your Tesseract is somewhere else, set `TESSERACT_CMD` to its full path before starting the app.
 
+
+## Web version
+
+The same analysis is also available as a web app built with Streamlit, so it can be hosted and opened from a link. Run it on your own computer with:
+
+streamlit run web_app.py
+
+It uses the same `analyzer.py` as the desktop app. It has no saved history or progress tracking, and files are processed on whichever machine hosts it.
+
 ## Project files
 
 ```
 app.py              the window (tkinter)
+web_app.py          the web version (Streamlit)
+packages.txt        system package (Tesseract) for OCR on the web host
 analyzer.py         all the logic: reading files, skills, scoring, reports, history
 skills.json         skills, categories and aliases (edit this to add skills)
 resources.json      learning advice, time estimates and links per skill

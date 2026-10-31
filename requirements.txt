@@ -10,3 +10,7 @@ matplotlib>=3.7        # Skills Chart window
 reportlab>=4.0         # save the report as a PDF
 pytesseract>=0.3.10    # OCR for scanned PDFs (also needs the Tesseract program)
 pillow>=10.0
+
+   
+# ---- Web version (web_app.py) ----
+streamlit>=1.35
